@@ -1,0 +1,3 @@
+/Users/didichi/Desktop/random/OpenCV Tutorial/OpenCV Tutorial/CMakeFiles/edit_cache.dir
+/Users/didichi/Desktop/random/OpenCV Tutorial/OpenCV Tutorial/CMakeFiles/rebuild_cache.dir
+/Users/didichi/Desktop/random/OpenCV Tutorial/OpenCV Tutorial/CMakeFiles/main.dir
